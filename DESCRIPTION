@@ -1,5 +1,5 @@
 Package: pruebaGeoAnalitica
-Title: What the Package Does (One Line, Title Case)
+Title: Este paquete es un ejemplo
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Francisco",
